@@ -5,7 +5,7 @@ This is the code for the paper, [Federated Learning with Intermediate Representa
 
 ## Description
 
-### dirichlet_data_distribution.ipynb
+### _dirichlet_data_distribution.ipynb_
 Generate client data with Dirichlet distribution. It works with datasets structured as follows:
 ```bash
 ├── cifar_10
@@ -17,23 +17,23 @@ Generate client data with Dirichlet distribution. It works with datasets structu
 │   │   └── truck
 ```
 
-### fedir.ipynb
+### _fedir.ipynb_
 Implementation for our proposed approach, [FedIntR](https://arxiv.org/abs/2210.15827). 
 <!---  Although we named the file "fedir.ipynb", please don't confuse it with existing work [FedIR](https://arxiv.org/abs/2003.08082) -->
 
-### fedavg.ipynb
+### _fedavg.ipynb_
 Implementation for [FedAvg](https://arxiv.org/abs/1602.05629).
 
-### fedprox.ipynb
+### _fedprox.ipynb_
 Implementation for [FedProx](https://arxiv.org/abs/1812.06127).
 
-### moon.ipynb
+### _moon.ipynb_
 Implementation for [MOON](https://arxiv.org/abs/2103.16257).
 
-### fedcka.ipynb
+### _fedcka.ipynb_
 Implementation for [FedCKA](https://arxiv.org/abs/2112.00407). We refer to this [repository](https://github.com/jayroxis/CKA-similarity) for CKA-similarity.
 
-### 20221201_torch_env.yml
+### _20221201_torch_env.yml_
 Anaconda environment file in case you need it. It may contain packages not essential for this work.
 
 ## Citation
