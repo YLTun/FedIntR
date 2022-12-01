@@ -33,5 +33,8 @@ Implementation for [MOON](https://arxiv.org/abs/2103.16257).
 ### fedcka.ipynb
 Implementation for [FedCKA](https://arxiv.org/abs/2112.00407). We refer to this [repository](https://github.com/jayroxis/CKA-similarity) for CKA-similarity.
 
+### 20221201_torch_env.yml
+Anaconda environment file in case you need it. It may contain packages not essential for this work.
+
 ## Citation
 Please cite our paper if you find this code useful for your work.
