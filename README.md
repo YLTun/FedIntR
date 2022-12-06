@@ -11,11 +11,11 @@ Generate client data with Dirichlet distribution. It works with folder style dat
 ├── cifar_10
 │   ├── train
 │   │   ├── airplane
-|   |   |   ├── 0.png
-│   │   |   ├── .
-│   │   |   ├── .
-│   │   |   ├── .
-|   |   |   └── 499.png
+│   │   │   ├── 0.png
+│   │   │   ├── .
+│   │   │   ├── .
+│   │   │   ├── .
+│   │   │   └── 499.png
 │   │   ├── .
 │   │   ├── .
 │   │   ├── .
