@@ -6,7 +6,7 @@ This is the code for the paper, [Federated Learning with Intermediate Representa
 ## Description
 
 ### _dirichlet_data_distribution.ipynb_
-Generate client data with Dirichlet distribution. It works with datasets structured as follows:
+Generate client data with Dirichlet distribution. It works with folder style datasets structured as follows:
 ```bash
 ├── cifar_10
 │   ├── train
