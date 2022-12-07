@@ -1,3 +1,5 @@
+# We reference the resnet implementation from here "https://github.com/akamaster/pytorch_resnet_cifar10/blob/master/resnet.py".
+
 '''
 Properly implemented ResNet-s for CIFAR10 as described in paper [1].
 
